@@ -28,6 +28,8 @@ so you need vv, and you must have python installed. i mean it would be idiotic i
  discord.py
  requests
  discord-py-slash-command
+ googletrans4.0.0-rc1
+ python-dotenv
  ```
  
 # INSTALLATION
@@ -41,7 +43,11 @@ pip install -r requirements.txt
 py -m pip install -r requirements.txt
 pythom3 -m pip install -r requirements.txt
 
+
 ```
+
+
+you must be using 4.0.0 for google translate because google messed up the api in 5.0.0 update, or it might update to 3.0.0. 
 
 ^^ THIS MUST BE IN THE SAME DIRECTORY AS YOUR PYTHON FILE
 
