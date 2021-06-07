@@ -26,7 +26,6 @@ so you need vv, and you must have python installed. i mean it would be idiotic i
 
 ```txt
  discord.py
- requests
  discord-py-slash-command
  googletrans4.0.0-rc1
  python-dotenv
