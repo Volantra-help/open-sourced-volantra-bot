@@ -22,7 +22,7 @@ Join my discord, its that easy.
 
 # REQUIREMENTS
 
-so you need vv
+so you need vv, and you must have python installed. i mean it would be idiotic if you tried this with javascript 
 
 ```txt
  discord.py
@@ -37,7 +37,9 @@ download the file and install them by doing in your powershell/command bar
 
 
 ```shell
-pip install -r requirements.txt
+pip install -r requirements.txt 
+py -m pip install -r requirements.txt
+pythom3 -m pip install -r requirements.txt
 
 ```
 
